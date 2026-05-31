@@ -1,0 +1,1 @@
+import{defineConfig}from'vite';export default defineConfig({base:'/Lorenz/',build:{target:'es2020'}});
